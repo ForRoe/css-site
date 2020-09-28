@@ -1,8 +1,8 @@
   body {
     background-color: #fff;
     color: #40514e;
-    margin: 0;
     text-align: center;
+    margin: 0;
     font-family: 'Merriweather', serif;
   }
 
@@ -118,11 +118,11 @@
     color: #596e79;
     text-decoration: none;
     display: inline-block;
-    width: 100px;
+    width: 150px;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 1rem;
-    margin: 1.5rem auto;
+    margin: 1rem auto;
     margin-bottom: 20px;
   }
 
